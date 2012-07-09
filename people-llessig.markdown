@@ -44,7 +44,7 @@ Lessig holds a BA in economics and a BS in management from the University of Pen
 
 *   [The Future of Ideas](http://cyber.law.harvard.edu/publications/2001/The_Future_Of_Ideas)
 
-*   [Zoning Speech on the Internet: A Legal and Technical Model](http://cyber.law.harvard.edu/publications/1999/Zoning_Speech_on_the_Internet)
+*   [Code and Other Laws of Cyberspace](http://cyber.law.harvard.edu/publications/1999/Code_And_Other_Laws_Of_Cyberspace)
 
 [more](http://cyber.law.harvard.edu/views/publications/70)
 
@@ -52,9 +52,9 @@ Lessig holds a BA in economics and a BS in management from the University of Pen
 
 *   [Internet Law Program (iLaw)](http://cyber.law.harvard.edu/teaching/ilaw)
 
-*   [The Law of Cyberspace: Social Protocols - Fall 1998](http://cyber.law.harvard.edu/teaching/courses/1998/fall/protocols)
-
 *   [The Microsoft Case - Fall 1998](http://cyber.law.harvard.edu/teaching/courses/1998/fall/microsoft)
+
+*   [The Law of Cyberspace: Social Protocols - Fall 1998](http://cyber.law.harvard.edu/teaching/courses/1998/fall/protocols)
 
 *   [The High Tech Entrepreneur - Winter 1998](http://cyber.law.harvard.edu/teaching/courses/1998/winter/hightech)
 
